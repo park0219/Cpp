@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Game">
+      <UniqueIdentifier>{541ed1bb-e098-43f5-9286-5c7e7b3ec8c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0715">
+      <UniqueIdentifier>{410dfca2-5875-49d3-9e72-d0faac3f2764}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0716">
+      <UniqueIdentifier>{45192467-4a72-4955-b004-e7750e80baad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0717">
+      <UniqueIdentifier>{94617bf7-2d18-4a35-9d9e-04c9d7046cc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0718">
+      <UniqueIdentifier>{dd050dd7-241e-44f7-b5de-3d83539b0b19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0719">
+      <UniqueIdentifier>{76a631e2-d01a-4639-8966-3855ec3b08b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0722">
+      <UniqueIdentifier>{0a0599f9-7a0e-4ebb-8d9f-511b732765a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0723">
+      <UniqueIdentifier>{6b2fbf0d-cabe-4cbe-9030-37a50bb712d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0724">
+      <UniqueIdentifier>{40f58586-f658-4125-9c7a-9f00caeb545d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0725">
+      <UniqueIdentifier>{f78f8221-0c14-4906-9831-9ba241394254}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0726">
+      <UniqueIdentifier>{3c75be61-d86e-4b82-a932-b25549db15d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0729">
+      <UniqueIdentifier>{1bcb43ce-a76b-4bd0-b09c-7f530cb05c26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0730">
+      <UniqueIdentifier>{86a6d89f-0e9d-4162-b340-90a7b0a98566}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0731">
+      <UniqueIdentifier>{e7664582-b008-4735-82a3-85da313ffdb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Game">
+      <UniqueIdentifier>{2a4b2076-87e4-4ee0-b92b-9c267b74b73c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\0724">
+      <UniqueIdentifier>{47fa448a-fbad-4e24-a181-b6b98c923bfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0801">
+      <UniqueIdentifier>{def089b7-2fbc-4042-8d61-95d72c6ebf3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0802">
+      <UniqueIdentifier>{b344a3e6-d460-4730-8e1d-d2e7efde7d51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0805">
+      <UniqueIdentifier>{0d958592-beb1-4a70-8a6c-31c8f59216f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0806">
+      <UniqueIdentifier>{52a79c14-69a1-4f53-b88b-7881a8cb5315}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0807">
+      <UniqueIdentifier>{0e958395-fbe7-481b-a3ee-7b7536c1cc9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0808">
+      <UniqueIdentifier>{ff3ff8fa-7379-46d5-b152-234a14fc56de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CInString.cpp">
+      <Filter>소스 파일\0715</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloCpp.cpp">
+      <Filter>소스 파일\0715</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleIn.cpp">
+      <Filter>소스 파일\0715</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncDefault01.cpp">
+      <Filter>소스 파일\0716</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncDefault02.cpp">
+      <Filter>소스 파일\0716</Filter>
+    </ClCompile>
+    <ClCompile Include="cppLocalvar.cpp">
+      <Filter>소스 파일\0716</Filter>
+    </ClCompile>
+    <ClCompile Include="Namespace01.cpp">
+      <Filter>소스 파일\0716</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncOverloading.cpp">
+      <Filter>소스 파일\0716</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncDefault03.cpp">
+      <Filter>소스 파일\0716</Filter>
+    </ClCompile>
+    <ClCompile Include="0716Q1.cpp">
+      <Filter>소스 파일\0716</Filter>
+    </ClCompile>
+    <ClCompile Include="0716Q2.cpp">
+      <Filter>소스 파일\0716</Filter>
+    </ClCompile>
+    <ClCompile Include="0717Q1.cpp">
+      <Filter>소스 파일\0717</Filter>
+    </ClCompile>
+    <ClCompile Include="Namespace03.cpp">
+      <Filter>소스 파일\0717</Filter>
+    </ClCompile>
+    <ClCompile Include="Namespace02.cpp">
+      <Filter>소스 파일\0717</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingNamespace03.cpp">
+      <Filter>소스 파일\0717</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingNamespace01.cpp">
+      <Filter>소스 파일\0717</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingNamespace02.cpp">
+      <Filter>소스 파일\0717</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortNamespace.cpp">
+      <Filter>소스 파일\0717</Filter>
+    </ClCompile>
+    <ClCompile Include="0718Q1.cpp">
+      <Filter>소스 파일\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="CallByValueExam.cpp">
+      <Filter>소스 파일\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="CallByRefRefren.cpp">
+      <Filter>소스 파일\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="CallByRefExam.cpp">
+      <Filter>소스 파일\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeBool02.cpp">
+      <Filter>소스 파일\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeBool01.cpp">
+      <Filter>소스 파일\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="RefVar.cpp">
+      <Filter>소스 파일\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="RefPtrVar.cpp">
+      <Filter>소스 파일\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="RefArrVar.cpp">
+      <Filter>소스 파일\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnRef01.cpp">
+      <Filter>소스 파일\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="0719Q3.cpp">
+      <Filter>소스 파일\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="0719Q2.cpp">
+      <Filter>소스 파일\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="0719Q1.cpp">
+      <Filter>소스 파일\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="NewDelete.cpp">
+      <Filter>소스 파일\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnRef03.cpp">
+      <Filter>소스 파일\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnRef02.cpp">
+      <Filter>소스 파일\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="NewConstructor.cpp">
+      <Filter>소스 파일\0722</Filter>
+    </ClCompile>
+    <ClCompile Include="StructCar.cpp">
+      <Filter>소스 파일\0722</Filter>
+    </ClCompile>
+    <ClCompile Include="StructCarFunc.cpp">
+      <Filter>소스 파일\0722</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassCar.cpp">
+      <Filter>소스 파일\0723</Filter>
+    </ClCompile>
+    <ClCompile Include="StructCarEnum.cpp">
+      <Filter>소스 파일\0723</Filter>
+    </ClCompile>
+    <ClCompile Include="BananaSeller.cpp">
+      <Filter>소스 파일\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="Location.cpp">
+      <Filter>소스 파일\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="LocFault.cpp">
+      <Filter>소스 파일\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>소스 파일\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleOK.cpp">
+      <Filter>소스 파일\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="Capsule.cpp">
+      <Filter>소스 파일\0725</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructor.cpp">
+      <Filter>소스 파일\0725</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructor1.cpp">
+      <Filter>소스 파일\0725</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructor2.cpp">
+      <Filter>소스 파일\0725</Filter>
+    </ClCompile>
+    <ClCompile Include="NoCapsule.cpp">
+      <Filter>소스 파일\0725</Filter>
+    </ClCompile>
+    <ClCompile Include="BananaSeller2.cpp">
+      <Filter>소스 파일\0726</Filter>
+    </ClCompile>
+    <ClCompile Include="Destructor.cpp">
+      <Filter>소스 파일\0726</Filter>
+    </ClCompile>
+    <ClCompile Include="ThisKeyword.cpp">
+      <Filter>소스 파일\0726</Filter>
+    </ClCompile>
+    <ClCompile Include="CopyCon.cpp">
+      <Filter>소스 파일\0729</Filter>
+    </ClCompile>
+    <ClCompile Include="CppCopy.cpp">
+      <Filter>소스 파일\0729</Filter>
+    </ClCompile>
+    <ClCompile Include="DeepCopy.cpp">
+      <Filter>소스 파일\0729</Filter>
+    </ClCompile>
+    <ClCompile Include="ShallowCopy.cpp">
+      <Filter>소스 파일\0729</Filter>
+    </ClCompile>
+    <ClCompile Include="UseThisKeyword.cpp">
+      <Filter>소스 파일\0729</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstOnObj.cpp">
+      <Filter>소스 파일\0730</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncOverConst.cpp">
+      <Filter>소스 파일\0730</Filter>
+    </ClCompile>
+    <ClCompile Include="Temporary2.cpp">
+      <Filter>소스 파일\0730</Filter>
+    </ClCompile>
+    <ClCompile Include="Temporary.cpp">
+      <Filter>소스 파일\0730</Filter>
+    </ClCompile>
+    <ClCompile Include="CppStatic.cpp">
+      <Filter>소스 파일\0731</Filter>
+    </ClCompile>
+    <ClCompile Include="Friend.cpp">
+      <Filter>소스 파일\0731</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticInC.cpp">
+      <Filter>소스 파일\0731</Filter>
+    </ClCompile>
+    <ClCompile Include="Troll.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Seller.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Warrior.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Dragon.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="play.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Orc.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>소스 파일\0801</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstStatic.cpp">
+      <Filter>소스 파일\0801</Filter>
+    </ClCompile>
+    <ClCompile Include="MutableVariable.cpp">
+      <Filter>소스 파일\0801</Filter>
+    </ClCompile>
+    <ClCompile Include="PublicStatic.cpp">
+      <Filter>소스 파일\0801</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="InheriConstructor.cpp">
+      <Filter>소스 파일\0802</Filter>
+    </ClCompile>
+    <ClCompile Include="PrivateMember.cpp">
+      <Filter>소스 파일\0802</Filter>
+    </ClCompile>
+    <ClCompile Include="ProtectedTest.cpp">
+      <Filter>소스 파일\0802</Filter>
+    </ClCompile>
+    <ClCompile Include="IsA.cpp">
+      <Filter>소스 파일\0802</Filter>
+    </ClCompile>
+    <ClCompile Include="NoIsA.cpp">
+      <Filter>소스 파일\0805</Filter>
+    </ClCompile>
+    <ClCompile Include="HasA.cpp">
+      <Filter>소스 파일\0805</Filter>
+    </ClCompile>
+    <ClCompile Include="PolyObj.cpp">
+      <Filter>소스 파일\0805</Filter>
+    </ClCompile>
+    <ClCompile Include="Override1.cpp">
+      <Filter>소스 파일\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="Override2.cpp">
+      <Filter>소스 파일\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="ViraulDestructor.cpp">
+      <Filter>소스 파일\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="RefPolymorphism.cpp">
+      <Filter>소스 파일\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="Magician.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Job.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Multi01.cpp">
+      <Filter>소스 파일\0807</Filter>
+    </ClCompile>
+    <ClCompile Include="Multi02.cpp">
+      <Filter>소스 파일\0807</Filter>
+    </ClCompile>
+    <ClCompile Include="Multi03.cpp">
+      <Filter>소스 파일\0807</Filter>
+    </ClCompile>
+    <ClCompile Include="OperOver.cpp">
+      <Filter>소스 파일\0807</Filter>
+    </ClCompile>
+    <ClCompile Include="0807Q1.cpp">
+      <Filter>소스 파일\0807</Filter>
+    </ClCompile>
+    <ClCompile Include="SingularOperOver1.cpp">
+      <Filter>소스 파일\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="0808Q1.cpp">
+      <Filter>소스 파일\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="OperOver2.cpp">
+      <Filter>소스 파일\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="Template1.cpp">
+      <Filter>소스 파일\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="SingularOperOver2.cpp">
+      <Filter>소스 파일\0808</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Location.h">
+      <Filter>헤더 파일\0724</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>헤더 파일\0724</Filter>
+    </ClInclude>
+    <ClInclude Include="Troll.h">
+      <Filter>헤더 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Seller.h">
+      <Filter>헤더 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Dragon.h">
+      <Filter>헤더 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Orc.h">
+      <Filter>헤더 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Warrior.h">
+      <Filter>헤더 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>헤더 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Job.h">
+      <Filter>헤더 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Magician.h">
+      <Filter>헤더 파일\Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
